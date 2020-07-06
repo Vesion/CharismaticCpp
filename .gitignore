@@ -1,3 +1,8 @@
 bazel-*
 build*
 bin*
+out*
+*.bin
+*.o
+*.out
+
